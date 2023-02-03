@@ -32,4 +32,4 @@ jobs:
             --region ap-northeast-2 \
             build s3://fe-91-limcroco-s3  --profile=fe-student-91-Limcroco\
             --delete
-        working-directory: ./my-agora-states-server
+        working-directory: ./my-agora-states-client
